@@ -1,6 +1,6 @@
 # rtt-ssd1309-driver
 
-OLED  module ( ssd1309 ) driver for RT-Thread driven by software spi，7 pins as below are necessary
+OLED  module ( ssd1309 ) driver for RT-Thread driven by software spi，7 pins are necessary as below 
 
 - CS
 - DC
@@ -9,5 +9,3 @@ OLED  module ( ssd1309 ) driver for RT-Thread driven by software spi，7 pins as
 - SCL
 - VCC
 - GND
-
-![](./logo.png)
